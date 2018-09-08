@@ -1,4 +1,4 @@
-package net.goldenhat.net.goldenhat.action;
+package net.goldenhat.action;
 
 public class Main {
 
